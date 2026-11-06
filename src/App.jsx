@@ -1,7 +1,11 @@
-import Card from "./card"
+import Card from "../Card"
+import Texto from "./Texto"
 
 function App(){
     return(
-        <Card />
+        <>
+            <Texto />
+            <Card />
+        </>
     )}
 export default App

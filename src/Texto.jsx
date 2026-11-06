@@ -1,4 +1,4 @@
-function Card(){
+function Texto(){
     return(
         <div id="texto">
             <h2>Tênis Casual Cinza e Branco</h2>
@@ -6,4 +6,4 @@ function Card(){
         </div>
     )
 }
-export default Card
+export default Texto
