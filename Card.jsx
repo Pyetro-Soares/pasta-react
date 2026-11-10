@@ -4,15 +4,19 @@ function Card(){
             <article id="areaCard">
                 <div className="contain" >
                     <div className="card" id="card1"></div>
+                    <a href="#" className="linkVerMais">Ver mais</a>
                 </div>
                 <div className="contain" >
                     <div className="card" id="card2"></div>
+                    <a href="#" className="linkVerMais">Ver mais</a>
                 </div>
                 <div className="contain" >
                     <div className="card" id="card3"></div>
+                    <a href="#" className="linkVerMais">Ver mais</a>
                 </div>
                 <div className="contain" >
                     <div className="card" id="card4"></div>
+                    <a href="#" className="linkVerMais">Ver mais</a>
                 </div>
             </article>
         </>
